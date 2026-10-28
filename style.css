@@ -1,0 +1,269 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+nav {
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    list-style: none;
+}
+
+nav select {
+    border: none;
+    color: white;
+    background: transparent;
+    border-radius: 10px;
+}
+
+.navbar {
+    padding-right: 10px;
+    height: 60px;
+    background-color: #373A3C;
+    display: flex;
+    justify-content: 10px;
+}
+
+header {
+    height: 100vh;
+    background-size: cover;
+    background-image: url(Star-Wars-Battlefront-II-combat.svg);
+}
+
+.rasm {
+    color: white;
+    padding-top: 200px;
+    padding-left: 1100px;
+}
+
+.butt {
+    padding: 30px;
+    padding-left: 1100px;
+    gap: 200px;
+}
+
+.katt {
+    padding-top: 80px;
+    padding-left: 50px;
+}
+
+.but1 {
+    background-color: rgb(16, 216, 16);
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+    border: none;
+}
+
+.but2 {
+    background-color: rgb(19, 229, 19);
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+    border: none;
+}
+
+button:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
+.yum {
+    color: #FFFFFF;
+}
+
+.sec1 {
+    background-color: rgb(62, 60, 60);
+
+}
+
+.kdiv {
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+
+.text{
+    border-radius: 20px;
+    width: 300px;
+    height: 35px;
+}
+
+.card {
+    width: 340px;
+    height: 370px;
+    background-color: rgb(254, 255, 254);
+    text-align: center;
+    margin: 20px;
+    border: 3px solid black;
+}
+
+.ton {
+    width: 170px;
+    height: 40px;
+    background-color: rgb(6, 239, 6);
+}
+
+.yum {
+    align-items: center;
+
+
+}
+
+.thebest {
+    text-align: center;
+}
+
+.images {
+    height: 180px;
+}
+
+.images img {
+    margin-top: 50px;
+}
+
+.ton2 {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.row {
+    align-items: center;
+    justify-items: center;
+}
+
+.section2 {
+    background-image: url(pistolet.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.button22 {
+    width: 170px;
+    height: 40px;
+    background-color: rgb(6, 239, 6);
+    margin-top: 80px;
+}
+
+.button21 {
+    width: 170px;
+    height: 40px;
+    margin-top: 40px;
+    background-color: rgb(6, 239, 6);
+}
+
+.not1 {
+    width: 320px;
+    height: 420px;
+    background-color: rgb(254, 255, 254);
+    text-align: center;
+    margin: 20px;
+    border: 3px solid black;
+}
+
+.not2 {
+    width: 352px;
+    height: 462px;
+    background-color: rgb(254, 255, 254);
+    text-align: center;
+    margin: 20px;
+    border: 3px solid black;
+}
+
+.not3 {
+    width: 320px;
+    height: 420px;
+    background-color: rgb(254, 255, 254);
+    text-align: center;
+    margin: 20px;
+    border: 3px solid black;
+}
+
+.not4 {
+    width: 320px;
+    height: 420px;
+    background-color: rgb(254, 255, 254);
+    text-align: center;
+    margin: 20px;
+}
+
+.jossii {
+    height: 480px;
+    background-size: cover;
+    background-image: url(jossi.svg);
+}
+
+.jossii {
+    padding: 110px 100px;
+
+}
+
+.nn {
+    width: 207px;
+    height: 60px;
+    background-color: #373A3C;
+    border-radius: 4px;
+    border: none;
+    color: #FFFFFF;
+
+}
+
+.bb {
+    width: 278px;
+    height: 60px;
+    background-color: #8DD83D;
+    border-radius: 4px;
+    border: none;
+   color: #FFFFFF; 
+
+
+}
+
+.btn {
+    margin-top: 35px;
+    border-radius: 4px;
+    border: none;
+
+}
+
+.nn,.bb:hover{
+cursor: pointer;
+color: black;
+}
+.tion{
+    background-color: #373A3C;
+}
+.us{
+    justify-content: space-around;
+    display: flex;
+    font-family: sans-serif;
+    padding-top: 20px;
+    color: #8DD83D;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+footer h3{
+    color: #8DD83D;
+}   
+.chiziq{
+    background-color: #373A3C;
+    
+}
+.p1{
+padding-left: 82px;
+}
+li{
+    list-style: none;
+}
